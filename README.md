@@ -1,5 +1,6 @@
 ### Hi there 👋
-<iframe  src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"  width="100%"  height="100%"  style="position:absolute"  frameBorder="0"  class="giphy-embed"  allowFullScreen></iframe>
+
+![coding](images/coding.webp)
 
 ## About me
 I am full stack developer most work on the react js and python
